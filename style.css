@@ -219,7 +219,9 @@ a {
 }
 .pic1{
     grid-area: pic1;
-    background-image: url(images/vuz.png);
+    background-image: url(images/3.svg);
+    width: 200px;
+    margin: 0 auto;
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -245,7 +247,9 @@ a {
 }
 .pic2{
     grid-area: pic2;
-    background-image: url(images/school.png);
+    background-image: url(images/32.svg);
+    width: 200px;
+    margin: 0 auto;
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -269,7 +273,9 @@ a {
 }
 .pic3{
     grid-area: pic3;
-    background-image: url(images/shelf.png);
+    background-image: url(images/323.svg);
+    width: 200px;
+    margin: 0 auto;
     background-repeat: no-repeat;
     background-size: contain;
 }
