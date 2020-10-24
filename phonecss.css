@@ -27,6 +27,16 @@
 
 
 
+@media screen and (max-width:600px){
+  .text-01-h1,.ASSC{
+    font-size: 6.6vw;
+  }
+}
+
+
+
+
+
 
 /* SECTION 1.5 */
 @media screen and (max-width:600px){
@@ -53,12 +63,13 @@
 
 /* SECTION 3 */
 @media screen and (max-width: 600px) {
-    .full-discription1, .full-discription2, .full-discription3{
+  .full-discription1,.full-discription2, .full-discription3{
         font-size: 4vw;
     }
     .pic1, .pic2, .pic3{
         width: 100px;
     }
+    
 }
 
 

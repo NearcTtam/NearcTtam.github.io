@@ -118,7 +118,12 @@ a {
     padding-bottom: 0;
 }
 .seperator{
-    margin: 3vh 0 20vh;
+    margin: 3vh 0 10vh;
+}
+.ASSC{
+    font-size: 1.6vw;
+    margin-bottom: 10vh;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
 }
 .button-01{
     width: 20vw;
@@ -248,9 +253,6 @@ a {
     font-size: 1.6vw;
     letter-spacing: 0.1em;
     text-align:center;
-    /*border: 3px solid #c79c00;
-    background-color: rgba(19, 19, 19, 0.945);
-    border-radius: 3px;*/
 }
 
 /* DISC2 */
